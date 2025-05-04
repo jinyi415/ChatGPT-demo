@@ -1,0 +1,134 @@
+[
+  {
+    "_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df53"
+    },
+    "user_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df51"
+    },
+    "movie_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df52"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802cb645df2654bac624a15"
+    },
+    "user_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df51"
+    },
+    "movie_id": {
+      "$oid": "68018d7a42816e9aea95ffa2"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802cf731d5844af24aff802"
+    },
+    "user_id": {
+      "$oid": "6802c5e8b080d2f481899782"
+    },
+    "movie_id": {
+      "$oid": "68018d7a42816e9aea95ffa2"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802d096e7943ea85395d376"
+    },
+    "user_id": {
+      "$oid": "6802d076e7943ea85395d375"
+    },
+    "movie_id": {
+      "$oid": "68018d7a42816e9aea95ffa2"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802dddc5a5dfeaee31c4f8f"
+    },
+    "user_id": {
+      "$oid": "6802ddbb5a5dfeaee31c4f8e"
+    },
+    "movie_id": {
+      "$oid": "6802d90132f1d8abdec1b33b"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802de605a5dfeaee31c4f90"
+    },
+    "user_id": {
+      "$oid": "6802ddbb5a5dfeaee31c4f8e"
+    },
+    "movie_id": {
+      "$oid": "6802dd905a5dfeaee31c4f8b"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802debbd2449aac5b7c0357"
+    },
+    "user_id": {
+      "$oid": "6802ddbb5a5dfeaee31c4f8e"
+    },
+    "movie_id": {
+      "$oid": "6802debbd2449aac5b7c0356"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6802deddd2449aac5b7c0359"
+    },
+    "user_id": {
+      "$oid": "6802ddbb5a5dfeaee31c4f8e"
+    },
+    "movie_id": {
+      "$oid": "6802deddd2449aac5b7c0358"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "680805ecb91aa5898bdf7dbd"
+    },
+    "user_id": {
+      "$oid": "6806c3e68002773507d0cd9d"
+    },
+    "movie_id": {
+      "$oid": "6805975f50cc490974f820f1"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "680815ea3e4e4458c7ece82f"
+    },
+    "user_id": {
+      "$oid": "6806c14160ce135768d88410"
+    },
+    "movie_id": {
+      "$oid": "680597e950cc490974f820f6"
+    },
+    "added_date": "2025-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "6817efdf80fd3931e47d42f5"
+    },
+    "user_id": {
+      "$oid": "68057780b10d4a0152e0a201"
+    },
+    "movie_id": {
+      "$oid": "6817efdf80fd3931e47d42f4"
+    },
+    "added_date": "2025-04-18"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "_id": {
+      "$oid": "6817dcb8a9b7ab523c394d52"
+    },
+    "title": "Interstellar",
+    "release_year": 2014,
+    "rating": 8.454,
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genre": "Adventure",
+    "director": "Christopher Nolan"
+  },
+  {
+    "_id": {
+      "$oid": "6817dcb8a9b7ab523c394d53"
+    },
+    "title": "Oppenheimer",
+    "release_year": 2023,
+    "rating": 8.061,
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "genre": "Drama",
+    "director": "Christopher Nolan"
+  },
+  {
+    "_id": {
+      "$oid": "6817dcb8a9b7ab523c394d54"
+    },
+    "title": "The Dark Knight Rises",
+    "release_year": 2012,
+    "rating": 7.785,
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "genre": "Action",
+    "director": "Christopher Nolan"
+  },
+  {
+    "_id": {
+      "$oid": "6817dcb9a9b7ab523c394d55"
+    },
+    "title": "Dunkirk",
+    "release_year": 2017,
+    "rating": 7.45,
+    "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+    "genre": "Action",
+    "director": "Christopher Nolan"
+  },
+  {
+    "_id": {
+      "$oid": "6817dcb9a9b7ab523c394d56"
+    },
+    "title": "Tenet",
+    "release_year": 2020,
+    "rating": 7.181,
+    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "genre": "Action",
+    "director": "Christopher Nolan"
+  },
+  {
+    "_id": {
+      "$oid": "6817dd06a9b7ab523c394d57"
+    },
+    "title": "Joker",
+    "release_year": 2019,
+    "rating": 8.1,
+    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "genre": "Crime",
+    "director": "Todd Phillips"
+  },
+  {
+    "_id": {
+      "$oid": "6817efdf80fd3931e47d42f4"
+    },
+    "title": "Spider-Man: Homecoming",
+    "release_year": 2017,
+    "rating": 7.3,
+    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "genre": "Action",
+    "director": "Jon Watts"
+  }
+]

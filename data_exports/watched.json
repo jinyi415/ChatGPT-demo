@@ -1,0 +1,132 @@
+[
+  {
+    "_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df54"
+    },
+    "user_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df51"
+    },
+    "movie_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df52"
+    },
+    "watched_date": "2025-04-10",
+    "rating": 9.5
+  },
+  {
+    "_id": {
+      "$oid": "6802cb975df2654bac624a16"
+    },
+    "user_id": {
+      "$oid": "6802c5d5d9118e8cd3a1df51"
+    },
+    "movie_id": {
+      "$oid": "68018d7a42816e9aea95ffa2"
+    },
+    "watched_date": "2025-04-18",
+    "rating": 9.5
+  },
+  {
+    "_id": {
+      "$oid": "6802d0e5e7943ea85395d377"
+    },
+    "user_id": {
+      "$oid": "6802d076e7943ea85395d375"
+    },
+    "movie_id": {
+      "$oid": "68018d7a42816e9aea95ffa2"
+    },
+    "watched_date": "2025-04-18",
+    "rating": 9.9
+  },
+  {
+    "_id": {
+      "$oid": "6802d251e7943ea85395d37a"
+    },
+    "user_id": {
+      "$oid": "6802d1d3e7943ea85395d378"
+    },
+    "movie_id": {
+      "$oid": "68019cd027986f8fdb937654"
+    },
+    "watched_date": "2025-04-18",
+    "rating": 8.0
+  },
+  {
+    "_id": {
+      "$oid": "6802df1ad2449aac5b7c035b"
+    },
+    "user_id": {
+      "$oid": "6802ddbb5a5dfeaee31c4f8e"
+    },
+    "movie_id": {
+      "$oid": "6802df1ad2449aac5b7c035a"
+    },
+    "watched_date": "2025-04-18",
+    "rating": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "6802ea0b56f17dc6ebc12005"
+    },
+    "user_id": {
+      "$oid": "6802e9070a9b123638e5114f"
+    },
+    "movie_id": {
+      "$oid": "6802e99b56f17dc6ebc11ffe"
+    },
+    "watched_date": "2025-04-18",
+    "rating": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "6802f3228504c33986f32732"
+    },
+    "user_id": {
+      "$oid": "6802e9070a9b123638e5114f"
+    },
+    "movie_id": {
+      "$oid": "6802ee3a76c5a602307ec903"
+    },
+    "watched_date": "2025-04-18",
+    "rating": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "68056c199c0b0e2ec873b635"
+    },
+    "user_id": {
+      "$oid": "6802e9070a9b123638e5114f"
+    },
+    "movie_id": {
+      "$oid": "6802ee3a76c5a602307ec903"
+    },
+    "watched_date": "2025-04-18",
+    "rating": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "680816f8bb31533ffc47da29"
+    },
+    "user_id": {
+      "$oid": "6806c14160ce135768d88410"
+    },
+    "movie_id": {
+      "$oid": "680597e950cc490974f820f6"
+    },
+    "watched_date": "2025-04-22T22:23:52.517744",
+    "rating": 7
+  },
+  {
+    "_id": {
+      "$oid": "6817dd06a9b7ab523c394d58"
+    },
+    "user_id": {
+      "$oid": "68057780b10d4a0152e0a201"
+    },
+    "movie_id": {
+      "$oid": "6817dd06a9b7ab523c394d57"
+    },
+    "watched_date": "2025-05-04T21:32:54.667026",
+    "rating": 8.7
+  }
+]
