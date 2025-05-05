@@ -180,6 +180,8 @@ TMDB_API_KEY=your-tmdb-api-key-here
 - `.env` is ignored by `.gitignore` for safety.
 - A sample `.env.example` is provided for reference.
 - Both OpenAI and TMDb offer free usage tiers suitable for demos and academic projects.
+- This project uses a local MongoDB instance. If you're grading the project and find the database empty, you can use the provided `data_exports/` JSON files to import sample data and test all functionalities locally.
+
 
 ---
 
