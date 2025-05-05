@@ -11,7 +11,7 @@ API_KEY = os.getenv("OPENAI_API_KEY")
 
 HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer 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"
+    "Authorization": f"Bearer {API_KEY}"
 }
 
 SYSTEM_PROMPT = """
